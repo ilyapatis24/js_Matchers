@@ -12,7 +12,7 @@
 
 **Важно**: используйте `import`/`export` а не `require`.
 
-В качестве шаблона вы можете использовать [готовый проект](/ci-template).
+В качестве шаблона вы можете использовать [готовый проект](https://github.com/netology-code/ajs-homeworks/tree/ajs8/ci-template).
 
 В личном кабинете на сайте [netology.ru](http://netology.ru/) в поле комментария к домашней работе вставьте ссылки на ваш GitHub-проекты.
 
